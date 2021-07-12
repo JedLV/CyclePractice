@@ -1,5 +1,5 @@
-/*
-用while循环打印100以内的所有奇数和
+/*用while循环打印100以内的所有奇数和
+
  */
 
 public class WhileTest2 {
